@@ -1,4 +1,4 @@
- '''Healthcare Chatbot using Langchain based RAG Model with llama-2-7b'''
+ ##Healthcare Chatbot using Langchain based RAG Model with llama-2-7b
   
  Developed cutting-edge technologies including FAISS for efficient similarity search, Hugging Face for
  advanced natural language processing capabilities, and llama2-7b for enhanced model performance.
